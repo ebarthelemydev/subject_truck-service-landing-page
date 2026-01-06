@@ -57,7 +57,7 @@ nav {
 }
 
 .nav-button2 {
-  background-color: none;
+  background-color: white;
   text-align: center;
   border: 0;
   font-weight: 700;
@@ -156,7 +156,7 @@ table {
 }
 
 thead {
-  background-color: #e8e8e8;
+  background-color: #ffffff;
 }
 
 th {
